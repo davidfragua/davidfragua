@@ -9,6 +9,24 @@ I am David Fragua, and this is my Github Page. I am a Junior FullStack Developer
 * 🌍  I'm based in Valencia
 * ✉️  You can contact me at [davidfragua@gmail.com](mailto:davidfragua@gmail.com)
 
+### You can find me here 🌍
+<table>
+  <tr>
+    <td>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="25" height="25" align="center" /> <a href="https://www.linkedin.com/in/davidfragua/" target="_blank" rel="noreferrer" alt="David Fragua Linkedin" > Linkedin   </a> 
+    </td>
+    <td>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="25" height="25" align="center" /> <a href="https://www.twitter.com/davidfragua" target="_blank" rel="noreferrer" alt="David Fragua Twitter" > Twitter   </a>
+  </td>
+       <td>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="25" height="25" align="center" /> <a href="https://www.github.com/davidfragua" target="_blank" rel="noreferrer" alt="David Fragua Github"> Github</a>
+    </td>
+    <td>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="25" height="25" align="center" /> <a href="https://discord.com/users/David Fragua#4168" target="_blank" rel="noreferrer" alt="David Fragua Discord">Discord </a> 
+    </td>
+  </tr>
+</table>
+  
 <br>
 
 ## My favorite tools and technologies ⚙️ 
@@ -82,18 +100,9 @@ I am David Fragua, and this is my Github Page. I am a Junior FullStack Developer
 
 <br>
 
-## Social Networks 📳
 
-<p align="left">
-<a href="https://discord.com/users/David Fragua#4168" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
-<a href="https://www.github.com/davidfragua" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="http://www.instagram.com/david.fragua" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/davidfragua/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="https://www.twitter.com/davidfragua" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<br>
-
-## Score
+## Score ⭐
 <img src="https://www.codewars.com/users/davidfragua/badges/large" alt="Codewars David Fragua">
 
 <br>
