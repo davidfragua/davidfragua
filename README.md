@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am David Fragua, and this is my Github Page. I am a Junior FullStack Developer and I love to learn new things about development and technology.
+I love everything related to Online Marketing too, and Search Engine Optimization.
+
+
+
 <!--
 **davidfragua/davidfragua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ![Header](./[Your header image])
+-->
