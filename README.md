@@ -63,9 +63,7 @@ I am David Fragua, and this is my Github Page. I am a Junior FullStack Developer
   <table>
   <tr>
     <td align="center"> 
-      <a href="#">
       <img src="https://skillicons.dev/icons?i=nodejs"  width="48" height="48" alt="Node" />
-      </a>
         <br>Node
     </td>
      <td align="center">
@@ -91,7 +89,6 @@ I am David Fragua, and this is my Github Page. I am a Junior FullStack Developer
         <img src="https://skillicons.dev/icons?i=git"  width="48" height="48" alt="Git" />
       <br>Git
     </td>
-   
  </tr>
 </table>
 
