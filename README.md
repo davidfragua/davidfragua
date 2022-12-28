@@ -36,9 +36,7 @@ I am David Fragua, and this is my Github Page. I am a Junior FullStack Developer
 <table>
   <tr>
     <td align="center" >
-      <a href="#">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      </a>
       <br>HTML
     </td>
      <td align="center">
