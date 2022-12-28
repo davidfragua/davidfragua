@@ -9,27 +9,70 @@ I am David Fragua, and this is my Github Page. I am a Junior FullStack Developer
 * 🌍  I'm based in Valencia
 * ✉️  You can contact me at [davidfragua@gmail.com](mailto:davidfragua@gmail.com)
 
-<a href="https://www.twitter.com/davidfragua" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/davidfragua" target="_blank" rel="noreferrer" alt="Twitter David Fragua"><img
 src="https://img.shields.io/twitter/follow/davidfragua?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-### Skills
+
+## My favorite tools and technologies ⚙️ 
+
+> Tools and technologies that I have worked with and I am interested in:
+<table>
+  <tr>
+    <td align="center" >
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+     <td align="center">
+        <img src="https://skillicons.dev/icons?i=css"  width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center">
+        <img src="https://skillicons.dev/icons?i=bootstrap"  width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center">
+        <img src="https://skillicons.dev/icons?i=js"  width="48" height="48" alt="Javascript" />
+      <br>Javascript
+    </td>
+    <td align="center">
+        <img src="https://skillicons.dev/icons?i=react"  width="48" height="48" alt="React" />
+      <br>React
+    </td>
+  </tr>
+  <tr>
+    <td align="center"> 
+      <img src="https://skillicons.dev/icons?i=nodejs"  width="48" height="48" alt="Node" />
+      <br>Node
+    </td>
+     <td align="center">
+        <img src="https://skillicons.dev/icons?i=express"  width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center">
+       <img src="https://skillicons.dev/icons?i=mongodb"  width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center">
+       <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+  </tr>
+ <tr>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git"  width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+   
+ </tr>
+</table>
 
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-</p>
 
 
-### Socials
+## Socials
 
 <p align="left"> <a href="https://discord.com/users/David Fragua#4168" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/davidfragua" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/david.fragua" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/davidfragua/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/davidfragua" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
