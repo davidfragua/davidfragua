@@ -9,14 +9,12 @@ I am David Fragua, and this is my Github Page. I am a Junior FullStack Developer
 * 🌍  I'm based in Valencia
 * ✉️  You can contact me at [davidfragua@gmail.com](mailto:davidfragua@gmail.com)
 
-<a href="https://www.twitter.com/davidfragua" target="_blank" rel="noreferrer" alt="Twitter David Fragua"><img
-src="https://img.shields.io/twitter/follow/davidfragua?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
+<br>
 
 ## My favorite tools and technologies ⚙️ 
 
 > Tools and technologies that I have worked with and I am interested in:
+### FrontEnd
 <table>
   <tr>
     <td align="center" >
@@ -42,10 +40,17 @@ src="https://img.shields.io/twitter/follow/davidfragua?logo=twitter&style=for-th
       <br>React
     </td>
   </tr>
+  </table>
+  
+  ### BackEnd
+  
+  <table>
   <tr>
     <td align="center"> 
+      <a href="#">
       <img src="https://skillicons.dev/icons?i=nodejs"  width="48" height="48" alt="Node" />
-      <br>Node
+      </a>
+        <br>Node
     </td>
      <td align="center">
         <img src="https://skillicons.dev/icons?i=express"  width="48" height="48" alt="Express" />
@@ -60,8 +65,13 @@ src="https://img.shields.io/twitter/follow/davidfragua?logo=twitter&style=for-th
       <br>Postman
     </td>
   </tr>
- <tr>
-        <td align="center" width="96">
+  </table>
+  
+  ### Others
+  
+  <table>
+  <tr>
+        <td align="center">
         <img src="https://skillicons.dev/icons?i=git"  width="48" height="48" alt="Git" />
       <br>Git
     </td>
@@ -70,15 +80,25 @@ src="https://img.shields.io/twitter/follow/davidfragua?logo=twitter&style=for-th
 </table>
 
 
+<br>
 
+## Social Networks 📳
 
-## Socials
+<p align="left">
+<a href="https://discord.com/users/David Fragua#4168" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+<a href="https://www.github.com/davidfragua" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="http://www.instagram.com/david.fragua" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/davidfragua/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<a href="https://www.twitter.com/davidfragua" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<p align="left"> <a href="https://discord.com/users/David Fragua#4168" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/davidfragua" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/david.fragua" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/davidfragua/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/davidfragua" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<br>
 
-### Badges
+## Score
+<img src="https://www.codewars.com/users/davidfragua/badges/large" alt="Codewars David Fragua">
 
-<b>My GitHub Stats</b>
+<br>
+
+## My GitHub Stats 📊
 
 <a href="http://www.github.com/davidfragua"><img src="https://github-readme-stats.vercel.app/api?username=davidfragua&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="davidfragua's GitHub stats" /></a>
 
